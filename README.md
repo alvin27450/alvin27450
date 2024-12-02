@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-**My Name Is `Alvin Maulana Ramadhan`
+**My Name Is `Alvin Maulana Ramadhan`**
 
 Here are some ideas to get you started:
 
