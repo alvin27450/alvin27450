@@ -14,7 +14,7 @@ During my studies, I developed skills in React, Vue, Node.js, and more. I specia
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvin27450&show_icons=true&theme=radical)
 ## 🛠 Technologies & Tools
 
 | **Frontend**                           | **Backend**                      | **Database**                | **Tools & Others**              |
