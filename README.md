@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-**alvin27450/alvin27450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My Name Is `Alvin Maulana Ramadhan`
 
 Here are some ideas to get you started:
 
