@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python
- # About Me 👋
+ ## About Me 👋
 During my studies, I developed skills in React, Vue, Node.js, and more. I specialize in delivering high-quality projects.
 
 ## 🚀 Technologies
