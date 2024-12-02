@@ -9,13 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
  ## About Me 👋
 During my studies, I developed skills in React, Vue, Node.js, and more. I specialize in delivering high-quality projects.
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvin27450&show_icons=true&theme=radical)
 ## 🚀 Languange
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvin27450&show_icons=true&theme=radical)
 ## 🛠 Technologies & Tools
 
 | **Frontend**                           | **Backend**                      | **Database**                | **Tools & Others**              |
