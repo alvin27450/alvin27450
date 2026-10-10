@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Home
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
  ## About Me 👋
 During my studies, I developed skills in React, Vue, Node.js, and more. I specialize in delivering high-quality projects.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvin27450&show_icons=true&theme=radical)
